@@ -1,8 +1,8 @@
 {
   "name": "ts-rest-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "dist/app.js",
+  "description": "A TypeScript Rest Server with Node.js",
+  "main": "app.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node dist/app.js"
@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "Felipe Navas",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Felipe-Navas/ts-rest-server/issues"
   },
